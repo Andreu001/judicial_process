@@ -1,0 +1,5 @@
+id,name,slug
+1,Административное судопроизводство,administrativeproceedings
+2,Административное правнарушение,administrativeoffense
+3,Гражданское судопроизводство,civil
+4,Уголовное судопроизводство,criminal
