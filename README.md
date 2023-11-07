@@ -13,10 +13,21 @@
 
 ```sh
 pip install -r requirements.txt
+```
+```sh
 python manage.py createsuperuser
+```
+```sh
 python manage.py makemigrations
+```
+```sh
 python manage.py migrate
+```
+Загрузка данных
+```sh
 python manage.py loading_csv
+```
+```sh
 python manage.py runserver
 ```
 
