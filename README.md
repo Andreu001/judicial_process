@@ -9,8 +9,9 @@
 
 ## Установка/запуск проекта
 
-
-
+```sh
+python pip install --upgrade pip
+```
 ```sh
 pip install -r requirements.txt
 ```
